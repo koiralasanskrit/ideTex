@@ -1,0 +1,8 @@
+/mnt/c/Users/97798/OneDrive/Desktop/ideTex/CMakeFiles/ideTex.dir
+/mnt/c/Users/97798/OneDrive/Desktop/ideTex/CMakeFiles/edit_cache.dir
+/mnt/c/Users/97798/OneDrive/Desktop/ideTex/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/97798/OneDrive/Desktop/ideTex/CMakeFiles/list_install_components.dir
+/mnt/c/Users/97798/OneDrive/Desktop/ideTex/CMakeFiles/install.dir
+/mnt/c/Users/97798/OneDrive/Desktop/ideTex/CMakeFiles/install/local.dir
+/mnt/c/Users/97798/OneDrive/Desktop/ideTex/CMakeFiles/install/strip.dir
+/mnt/c/Users/97798/OneDrive/Desktop/ideTex/CMakeFiles/ideTex_autogen.dir
